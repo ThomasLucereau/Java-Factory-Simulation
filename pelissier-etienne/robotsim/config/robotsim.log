@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-26T13:14:25.747422100Z</date>
+  <millis>1716729265747</millis>
+  <nanos>422100</nanos>
+  <sequence>0</sequence>
+  <logger>robotsim.app.SimulatorApplication</logger>
+  <level>INFO</level>
+  <class>robotsim.app.SimulatorApplication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Starting the robot simulator...</message>
+</record>
+<record>
+  <date>2024-05-26T13:14:25.941815700Z</date>
+  <millis>1716729265941</millis>
+  <nanos>815700</nanos>
+  <sequence>1</sequence>
+  <logger>robotsim.app.SimulatorApplication</logger>
+  <level>CONFIG</level>
+  <class>robotsim.app.SimulatorApplication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>With parameters Factory [name=Synthwave Factory, style=robotsim.model.DisplayStyle@48b1b469, shape=robotsim.model.Rectangle@6a887649, xCoord=0, yCoord=0, orientation=0.0, robots=[Robot [name=Robot 1, style=robotsim.model.DisplayStyle@48b1b469, shape=robotsim.model.Oval@6a7b4ff5, xCoord=0, yCoord=0, orientation=0.0, speed=5, battery=100.0]], rooms=[Room [name=Room 1, style=robotsim.model.DisplayStyle@48b1b469, shape=robotsim.model.Rectangle@3da701a1, xCoord=0, yCoord=0, orientation=0.0, , robots=[], doors=[], productionZones=[], chargingStations=[]], Room [name=Room 2, style=robotsim.model.DisplayStyle@48b1b469, shape=robotsim.model.Rectangle@3da701a1, xCoord=50, yCoord=0, orientation=0.0, , robots=[], doors=[], productionZones=[], chargingStations=[]], Room [name=Room 3, style=robotsim.model.DisplayStyle@48b1b469, shape=robotsim.model.Rectangle@7def62d0, xCoord=0, yCoord=50, orientation=0.0, , robots=[], doors=[], productionZones=[], chargingStations=[]]]].</message>
+</record>
